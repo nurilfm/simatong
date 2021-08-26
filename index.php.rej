@@ -1,0 +1,18 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -13,13 +13,13 @@
+             <div class="carousel-inner">
+               <div class="carousel-item active">
+                 <img src="view/img/slide.jpg" class="d-block w-60" alt="" style="width :1280px; height: 450px;">
+-                <div class="carousel-caption">
++               <!--  <div class="carousel-caption">
+                   <h3>Daging Sehat dan Halal</h3>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum corporis, saepe quo. Ipsam rerum sint, repudiandae cupiditate animi! Cum, sequi. Dolorum tenetur, repellendus beatae illum quaerat repellat non ipsum alias?</p>
+-                </div>
++                </div> -->
+               </div>
+               <div class="carousel-item">
+-                <img src="view/img/slide1.png" class="d-block w-60" alt="" style="width :1280px; height: 450px;">
++                <img src="view/img/slide1.jpg" class="d-block w-60" alt="" style="width :1280px; height: 450px;">
+                 <!-- <div class="carousel-caption">
+                   <h4>Daging Sehat dan Halal</h4>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum corporis, saepe quo. Ipsam rerum sint, repudiandae cupiditate animi! Cum, sequi. Dolorum tenetur, repellendus beatae illum quaerat repellat non ipsum alias?</p>
